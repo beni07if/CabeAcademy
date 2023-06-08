@@ -449,19 +449,19 @@
                 <li>
                     <div>
                         <time>Maret</time>
-                        <p>Outline</p>
+                        <p>Draf outline</p>
                     </div>
                 </li>
                 <li>
                     <div>
-                        <time>April</time>
-                        <p>Penulisan Laporan</p>
+                        <time>April & Mei</time>
+                        <p>Report writing</p>
                     </div>
                 </li>
                 <li>
                     <div>
-                        <time>Mei</time>
-                        <p>Hasil/Publikasi</p>
+                        <time>Juni</time>
+                        <p>Report</p>
                     </div>
                 </li>
             </ul>
