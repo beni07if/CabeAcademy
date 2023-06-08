@@ -317,7 +317,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-eudr filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/aji.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/aji2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Pak Aji</h4>
