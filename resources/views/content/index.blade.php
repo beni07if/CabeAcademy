@@ -461,7 +461,7 @@
                 <li>
                     <div>
                         <time>Juni</time>
-                        <p>Report</p>
+                        <p>Report & Presentation</p>
                     </div>
                 </li>
             </ul>
