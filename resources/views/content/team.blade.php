@@ -251,7 +251,7 @@
                     <li data-filter=".filter-eudr">EUDR & UU Ciptaker(4)</li>
                     <li data-filter=".filter-us">US Forest Act 2021 (3)</li>
                     <li data-filter=".filter-beauty">Beauty Contest (6)</li>
-                    <li data-filter=".filter-pattern">Pattern Monitoring (6)</li>
+                    <li data-filter=".filter-pattern">Study Pattern Monitoring (6)</li>
                     <li data-filter=".filter-next">Next Gen Monev (4)</li>
                     <li data-filter=".filter-lanskap">100 Ide Lanskap (3)</li>
                     <li data-filter=".filter-ekspedisi">Espedisi 1000 Badai (3)</li>
