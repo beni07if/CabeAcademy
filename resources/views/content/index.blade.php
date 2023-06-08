@@ -43,7 +43,7 @@
         position: relative;
         margin-bottom: 50px;
         cursor: pointer;
-        width: 50%;
+        width: 80%;
         left: 50%;
         transform: translateX(-50%);
         box-shadow: rgba(0, 0, 0, 0.2);
@@ -127,7 +127,7 @@
         padding-top: -100px;
     }
 
-    /* end style timeline  */
+    /* end style timelinefsdfa  */
 </style>
 
 @endsection

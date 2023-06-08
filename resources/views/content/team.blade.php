@@ -246,7 +246,7 @@
             </div>
             <div class="desktop">
                 <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
-                    <li data-filter="*" class="filter-active">Semua Tim (13)</li>
+                    <li data-filter="*" class="filter-active">All Team (13)</li>
                     <li data-filter=".filter-ghg">GHG Emissions (5)</li>
                     <li data-filter=".filter-eudr">EUDR & UU Ciptaker(4)</li>
                     <li data-filter=".filter-us">US Forest Act 2021 (3)</li>
