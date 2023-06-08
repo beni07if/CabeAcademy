@@ -264,7 +264,7 @@
                         <li data-filter="*" class="filter-active swiper-slide">Semua Tim (13)</li>
                         <li data-filter=".filter-ghg" class="swiper-slide">Studies on GHG Emissions (5)</li>
                         <li data-filter=".filter-eudr" class="swiper-slide">EUDR &amp; UU Ciptaker(4)</li>
-                        <li data-filter=".filter-us" class="swiper-slide">US Forest Act 2021 (3)</li>
+                        <li data-filter=".filter-us" class="swiper-slide">US Forest Act 2021 (2)</li>
                         <li data-filter=".filter-beauty" class="swiper-slide">Beauty Contest (6)</li>
                         <li data-filter=".filter-pattern" class="swiper-slide">Pattern Monitoring (6)</li>
                         <li data-filter=".filter-next" class="swiper-slide">Next Gen Monev (4)</li>
