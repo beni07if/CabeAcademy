@@ -448,7 +448,7 @@
             <ul class="timeline">
                 <li>
                     <div>
-                        <time>Maret</time>
+                        <time>March</time>
                         <p>Draf outline</p>
                     </div>
                 </li>
@@ -460,7 +460,7 @@
                 </li>
                 <li>
                     <div>
-                        <time>Juni</time>
+                        <time>June</time>
                         <p>Report & Presentation</p>
                     </div>
                 </li>
