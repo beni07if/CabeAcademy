@@ -187,7 +187,7 @@
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
                 <h1>ID Academy by PT Inovasi Digital</h1>
-                <h2>Short course program for Internship in PT. Inovasi Digital</h2>
+                <h2>Short course program for Internship at PT. Inovasi Digital</h2>
                 <div class="d-flex justify-content-center justify-content-lg-start">
                     <!-- <a href="#about" class="btn-get-started scrollto">Get Started</a>
                         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -217,7 +217,7 @@
             <div class="row content">
                 <div class="col-lg-6">
                     <p>
-                        ID Academy is a short course which is one of the internship programs at PT Inovasi Digital. The short course theme consists of:
+                        ID Academy is a short/mid course which is one of the internship programs at PT Inovasi Digital. The short course theme consists of:
                     </p>
                     <ul>
                         <li><i class="ri-check-double-line"></i> Regulation and policy</li>
@@ -226,8 +226,11 @@
                     </ul>
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0">
-                    <p>
+                    <!-- <p>
                         ID Academy is a short/mid course held by PT Inovasi Digital for apprentice/pkwt staff. This program raises several topics such as Studies on GHG Emissions, Pattern monitoring, and so on. The output of this program is a report from each team regarding the existing topics.
+                    </p> -->
+                    <p>
+                        The topic of this short course is Studies on GHG Emissions, Study Pattern monitoring 5 Years, The next-generation of monev/liability/recovery, Beauty contest, EUDR & UU Cipta Kerja, US Forest Act 2021, Expedition of a Thousand Storms dan 100 landscape ideas. The output of this program is a report from each team regarding the existing topics.
                     </p>
                     <!-- <a href="#" class="btn-learn-more">Learn More</a> -->
                 </div>
