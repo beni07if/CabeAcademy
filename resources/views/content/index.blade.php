@@ -385,7 +385,7 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Hasil Short Course</h2>
+                <h2>Short Course Result</h2>
                 <p>Recent posts form our short course</p>
             </div>
 
@@ -400,7 +400,7 @@
                         </div>
                         <h3 class="post-title">GHG Emissions</h3>
                         <p>Illum voluptas ab enim placeat. Adipisci enim velit nulla. Vel omnis laudantium. Asperiores eum ipsa est officiis. Modi cupiditate exercitationem qui magni est...</p>
-                        <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                        <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -413,7 +413,7 @@
                         </div>
                         <h3 class="post-title">Study Pattern Monitoring 5th</h3>
                         <p>Voluptatem nesciunt omnis libero autem tempora enim ut ipsam id. Odit quia ab eum assumenda. Quisquam omnis aliquid necessitatibus tempora consectetur doloribus...</p>
-                        <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                        <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -426,7 +426,7 @@
                         </div>
                         <h3 class="post-title">Beauty Contest</h3>
                         <p>Quia nam eaque omnis explicabo similique eum quaerat similique laboriosam. Quis omnis repellat sed quae consectetur magnam veritatis dicta nihil...</p>
-                        <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                        <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
