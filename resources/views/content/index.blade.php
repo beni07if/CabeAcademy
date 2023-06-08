@@ -283,7 +283,7 @@
                     <!-- Tabs -->
                     <ul class="nav nav-pills mb-3 d-flex justify-content-center">
                         <li><a class="nav-link active" data-bs-toggle="pill" href="#tab10">Regulation and Policy</a></li>
-                        <li><a class="nav-link" data-bs-toggle="pill" href="#tab20">Inovation and News Ideas</a></li>
+                        <li><a class="nav-link" data-bs-toggle="pill" href="#tab20">Inovation and New Ideas</a></li>
                         <li><a class="nav-link" data-bs-toggle="pill" href="#tab30">Inovation at Existing Programs</a></li>
                     </ul><!-- End Tabs -->
 
@@ -338,8 +338,8 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
-                                        <h4><a href="{{route('topic')}}">The Next-gneration of Monitoring</a></h4>
-                                        <p>Next Generation of monitoring, liability and recovery (short course)</p>
+                                        <h4><a href="{{route('topic')}}">The Next-Generation of Monitoring</a></h4>
+                                        <p>The Next-Generation of monitoring, liability and recovery (short course)</p>
                                     </div>
                                 </div>
 

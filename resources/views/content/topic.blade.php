@@ -287,13 +287,13 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Studies on GHG Emissions</h2>
-                <p>Studies on GHG Emissions is mid course at PT Inovasi Digital with explore about source and calculation emission in palm oil industries.</p>
+                <h2>Study on GHG Emissions</h2>
+                <p>Study on GHG Emissions is mid course at PT Inovasi Digital with explore about source and calculation emission in palm oil industries.</p>
             </div>
 
             <div class="row">
                 <div class="col-lg-6">
-                    <h3 class="resume-title">Studies on GHG Emissions</h3>
+                    <h3 class="resume-title">Study on GHG Emissions</h3>
                     <div class="resume-item pb-0">
                         <h4>Summary</h4>
                         <p><em>Based on the results of a brief study on GHG calculations in the palm oil industry, several gaps were found which became a concern, in particular the results of emission calculations carried out by the Certification Body in the RSPO Audit Report were many which were incomplete.</em></p>
@@ -302,13 +302,13 @@
                 <div class="col-lg-6">
                     <h3 class="resume-title">Report Progress</h3>
                     <div class="resume-item">
-                        <h4>Draf outline</h4>
+                        <h4>Outline draf</h4>
                         <h5>March</h5>
                         <!-- <p><em>Experion, New York, NY </em></p> -->
                         <p>
                         <ul>
                             <li>Outline discussion with internal team</li>
-                            <li>Draf outline</li>
+                            <li>Outline draf</li>
                         </ul>
                         </p>
                     </div>
@@ -324,7 +324,7 @@
                         </p>
                     </div>
                     <div class="resume-item">
-                        <h4>Report</h4>
+                        <h4>Final report</h4>
                         <h5>June, 2023</h5>
                         <!-- <p><em>Stepping Stone Advertising, New York, NY</em></p> -->
                         <p>
@@ -340,7 +340,7 @@
                         <p><em>Published on social media:</em></p>
                         <p>
                         <ul>
-                            <li>SInstagram and Linkedin</li>
+                            <li>Instagram and Linkedin</li>
                             <li>Website ID Academy</li>
                             <li>Other</li>
                         </ul>
