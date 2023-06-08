@@ -295,7 +295,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
-                                        <h4><a href="#">EUDR & UU Cipta Kerja</a></h4>
+                                        <h4><a href="{{route('topic')}}">EUDR & UU Cipta Kerja</a></h4>
                                         <p>EUDR & UU Cipta Kerja Pasal 110A/110B (short course)</p>
                                     </div>
                                 </div>
@@ -303,7 +303,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-world"></i></div>
-                                        <h4><a href="#">US Forest Act 2021</a></h4>
+                                        <h4><a href="{{route('topic')}}">US Forest Act 2021</a></h4>
                                         <p>US Forest Act 2021 Draft Bill (short course)</p>
                                     </div>
                                 </div>
@@ -311,7 +311,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
-                                        <h4><a href="#">Beauty Contest</a></h4>
+                                        <h4><a href="{{route('topic')}}">Beauty Contest</a></h4>
                                         <p>Beauty Contest (ISCC, RSPO, MSPO dan ISPO) short course</p>
                                     </div>
                                 </div>
@@ -325,7 +325,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
-                                        <h4><a href="#">Study on GHG Emissions</a></h4>
+                                        <h4><a href="{{route('topic')}}">Study on GHG Emissions</a></h4>
                                         <p>Study on GHG Emissions (mid course)</p>
                                     </div>
                                 </div>
@@ -338,7 +338,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
-                                        <h4><a href="#">The Next-gneration of Monitoring</a></h4>
+                                        <h4><a href="{{route('topic')}}">The Next-gneration of Monitoring</a></h4>
                                         <p>Next Generation of monitoring, liability and recovery (short course)</p>
                                     </div>
                                 </div>
@@ -346,7 +346,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-world"></i></div>
-                                        <h4><a href="#">Study Pattern Monitoring 5 Years</a></h4>
+                                        <h4><a href="{{route('topic')}}">Study Pattern Monitoring 5 Years</a></h4>
                                         <p>Study Pattern Monitoring 5 Years (short course)</p>
                                     </div>
                                 </div>
@@ -354,14 +354,14 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
-                                        <h4><a href="#">100 Landscape Ideas</a></h4>
+                                        <h4><a href="{{route('topic')}}">100 Landscape Ideas</a></h4>
                                         <p>100 Landscape Ideas (short course)</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
-                                        <h4><a href="#">Expedition of a thousand storms</a></h4>
+                                        <h4><a href="{{route('topic')}}">Expedition of a thousand storms</a></h4>
                                         <p>Expedition of a thousand storms (mid course)</p>
                                     </div>
                                 </div>

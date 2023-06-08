@@ -21,6 +21,10 @@ class HomeController extends Controller
     {
         return view('content.team');
     }
+    public function topic()
+    {
+        return view('content.topic');
+    }
 
     /**
      * Show the form for creating a new resource.

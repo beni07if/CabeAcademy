@@ -338,7 +338,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi">
+                <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi filter-us">
                     <div class="team-member">
                         <div class="member-img">
                             <img src="{{asset('Arsha/assets/img/team/usup.jpeg')}}" class="img-fluid" alt="">

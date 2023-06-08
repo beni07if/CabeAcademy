@@ -21,3 +21,4 @@ Route::get('/', function () {
 Route::get('/home', [HomeController::class, 'index'])->name('index');
 Route::get('/team', [HomeController::class, 'team'])->name('team');
 Route::get('/doc', [HomeController::class, 'doc'])->name('doc');
+Route::get('/topic', [HomeController::class, 'topic'])->name('topic');
