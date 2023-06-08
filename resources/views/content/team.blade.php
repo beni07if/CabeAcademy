@@ -247,14 +247,14 @@
             <div class="desktop">
                 <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <li data-filter="*" class="filter-active">All Team (13)</li>
-                    <li data-filter=".filter-ghg">GHG Emissions (5)</li>
+                    <li data-filter=".filter-ghg">Studies on GHG Emissions (5)</li>
                     <li data-filter=".filter-eudr">EUDR & UU Ciptaker(4)</li>
                     <li data-filter=".filter-us">US Forest Act 2021 (3)</li>
                     <li data-filter=".filter-beauty">Beauty Contest (6)</li>
                     <li data-filter=".filter-pattern">Study Pattern Monitoring (6)</li>
                     <li data-filter=".filter-next">Next Gen Monev (4)</li>
-                    <li data-filter=".filter-lanskap">100 Ide Lanskap (3)</li>
-                    <li data-filter=".filter-ekspedisi">Espedisi 1000 Badai (3)</li>
+                    <li data-filter=".filter-lanskap">100 Landscape Ideas (3)</li>
+                    <li data-filter=".filter-ekspedisi">Expedition of a thousand storms (3)</li>
                 </ul>
             </div>
 
@@ -262,14 +262,14 @@
                 <ul id="portfolio-flters" class="swiper-container d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <div class="swiper-wrapper">
                         <li data-filter="*" class="filter-active swiper-slide">Semua Tim (13)</li>
-                        <li data-filter=".filter-ghg" class="swiper-slide">GHG Emissions (5)</li>
+                        <li data-filter=".filter-ghg" class="swiper-slide">Studies on GHG Emissions (5)</li>
                         <li data-filter=".filter-eudr" class="swiper-slide">EUDR &amp; UU Ciptaker(4)</li>
                         <li data-filter=".filter-us" class="swiper-slide">US Forest Act 2021 (3)</li>
                         <li data-filter=".filter-beauty" class="swiper-slide">Beauty Contest (6)</li>
                         <li data-filter=".filter-pattern" class="swiper-slide">Pattern Monitoring (6)</li>
                         <li data-filter=".filter-next" class="swiper-slide">Next Gen Monev (4)</li>
-                        <li data-filter=".filter-lanskap" class="swiper-slide">100 Ide Lanskap (3)</li>
-                        <li data-filter=".filter-ekspedisi" class="swiper-slide">Espedisi 1000 Badai (3)</li>
+                        <li data-filter=".filter-lanskap" class="swiper-slide">100 Landscape Ideas (3)</li>
+                        <li data-filter=".filter-ekspedisi" class="swiper-slide">Expedition of a thousand storms (3)</li>
                     </div>
                     <div class="swiper-scrollbar"></div>
                 </ul>

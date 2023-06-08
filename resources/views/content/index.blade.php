@@ -355,14 +355,14 @@
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
                                         <h4><a href="#">100 Landscape Ideas</a></h4>
-                                        <p>100 Ide Lanskap</p>
+                                        <p>100 Landscape Ideas (short course)</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
                                         <h4><a href="#">Expedition of a thousand storms</a></h4>
-                                        <p>Expedition of a thousand storms</p>
+                                        <p>Expedition of a thousand storms (mid course)</p>
                                     </div>
                                 </div>
                             </div>
