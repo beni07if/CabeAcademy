@@ -296,7 +296,7 @@
                             <img src="{{asset('Arsha/assets/img/team/dafa.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Al maida ayat 2</h4>
+                            <h4>Dafa Almaida</h4>
                             <span hidden>>Monitoring</span>
                         </div>
                     </div>
@@ -308,7 +308,7 @@
                             <img src="{{asset('Arsha/assets/img/team/brandy2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Brendon </h4>
+                            <h4>Brandy Befani</h4>
                             <span hidden>>Monitoring</span>
                         </div>
                     </div>
@@ -320,7 +320,7 @@
                             <img src="{{asset('Arsha/assets/img/team/aji2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Pak Aji</h4>
+                            <h4>Moh. Fazly Noor Islami H.</h4>
                             <span hidden>>Designer</span>
                         </div>
                     </div>
@@ -332,7 +332,7 @@
                             <img src="{{asset('Arsha/assets/img/team/fatra.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Fatra Handalan ucy</h4>
+                            <h4>Fatra Handalucy</h4>
                             <span hidden>>FVP Tim</span>
                         </div>
                     </div>
@@ -344,7 +344,7 @@
                             <img src="{{asset('Arsha/assets/img/team/usup.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Cup cup</h4>
+                            <h4>Usup Ida</h4>
                             <span hidden>>FVP Tim</span>
                         </div>
                     </div>
@@ -356,7 +356,7 @@
                             <img src="{{asset('Arsha/assets/img/team/hafis2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Haffizahullah</h4>
+                            <h4>M. Haffizh</h4>
                             <span hidden>>Tematik</span>
                         </div>
                     </div>
@@ -380,7 +380,7 @@
                             <img src="{{asset('Arsha/assets/img/team/iqbal.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Iqbal M.I</h4>
+                            <h4>M. Iqbal</h4>
                             <span hidden>>Traceability</span>
                         </div>
                     </div>
@@ -392,7 +392,7 @@
                             <img src="{{asset('Arsha/assets/img/team/jihad3.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Jihad Fii Sabilillah</h4>
+                            <h4>Jihad</h4>
                             <span hidden>>Corporate</span>
                         </div>
                     </div>
@@ -404,7 +404,7 @@
                             <img src="{{asset('Arsha/assets/img/team/bowo.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Santai wo</h4>
+                            <h4>Bowo</h4>
                             <span hidden>>Monitoring</span>
                         </div>
                     </div>
@@ -428,7 +428,7 @@
                             <img src="{{asset('Arsha/assets/img/team/cesar3.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Argonomis S.P. S.Hut.</h4>
+                            <h4>Ceasar Argo S.P. S.Hut.</h4>
                             <span hidden>>Data Miner</span>
                         </div>
                     </div>

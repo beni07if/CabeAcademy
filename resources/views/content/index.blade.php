@@ -187,7 +187,7 @@
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
                 <h1>ID Academy by PT Inovasi Digital</h1>
-                <h2>Short course program for Internship at PT. Inovasi Digital</h2>
+                <h2>Internship's Short Course Program at PT Inovasi Digital</h2>
                 <div class="d-flex justify-content-center justify-content-lg-start">
                     <!-- <a href="#about" class="btn-get-started scrollto">Get Started</a>
                         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -217,20 +217,23 @@
             <div class="row content">
                 <div class="col-lg-6">
                     <p>
-                        ID Academy is a short/mid course which is one of the internship programs at PT Inovasi Digital. The short course theme consists of:
+                        ID Academy is a short/mid course of the internship program at PT Inovasi Digital. The short course theme consists of:
                     </p>
                     <ul>
                         <li><i class="ri-check-double-line"></i> Regulation and policy</li>
                         <li><i class="ri-check-double-line"></i> Inovation and new ideas</li>
-                        <li><i class="ri-check-double-line"></i> Inovation in ongoing projects</li>
+                        <li><i class="ri-check-double-line"></i> Inovation for on going projects</li>
                     </ul>
                 </div>
-                <div class="col-lg-6 pt-4 pt-lg-0">
+                <div class="col-lg-6 pt-4 pt-lg-0" style="text-align: justify;">
                     <!-- <p>
                         ID Academy is a short/mid course held by PT Inovasi Digital for apprentice/pkwt staff. This program raises several topics such as Studies on GHG Emissions, Pattern monitoring, and so on. The output of this program is a report from each team regarding the existing topics.
                     </p> -->
                     <p>
-                        The topic of this short course is Studies on GHG Emissions, Study Pattern monitoring 5 Years, The next-generation of monev/liability/recovery, Beauty contest, EUDR & UU Cipta Kerja, US Forest Act 2021, Expedition of a Thousand Storms dan 100 landscape ideas. The output of this program is a report from each team regarding the existing topics.
+                        This short course aimed to develop PT Inovasi Digital trainees and new staffs to have a better understanding and knowledge about the development and condition of palm oil global industry, the relation to the international law and the sustainability of the nature.
+                    </p>
+                    <p>
+                        The topic of this short course consist of studies on GHG Emissions, the pattern of these 5 years monitoring, the new generation of monitoring evaluation/liability/recovery, the battle of palm oil certifications, the connection between the EUDR & Omnibus Law on Job Creation, Examining the US Forest Act Draft Bill 2021, and the exploration of Indonesia's beautiful landscape which are the expedition of a thousand storms and developing 100 landscape ideas. The output of this program vary starting from reports and video documentation.
                     </p>
                     <!-- <a href="#" class="btn-learn-more">Learn More</a> -->
                 </div>
@@ -267,7 +270,7 @@
 
             <div class="section-title">
                 <h2>Theme and Topic</h2>
-                <p>Short/mid course theme and topic</p>
+                <p>Short & mid course's topic</p>
             </div>
 
             <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
@@ -296,7 +299,7 @@
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
                                         <h4><a href="{{route('topic')}}">EUDR & UU Cipta Kerja</a></h4>
-                                        <p>EUDR & UU Cipta Kerja Pasal 110A/110B (short course)</p>
+                                        <p>EUDR & Omnibus Law on Job Creation Article 110A/110B (short course)</p>
                                     </div>
                                 </div>
 
@@ -385,7 +388,7 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Short Course Result</h2>
+                <h2>Short Course Outcomes</h2>
                 <p>Recent posts form our short course</p>
             </div>
 
@@ -396,9 +399,9 @@
                         <div class="post-img"><img src="Arsha/assets/img/bg/bgwl1.jpeg" class="img-fluid" alt=""></div>
                         <div class="meta">
                             <span class="post-date">Tue, Juni 27</span>
-                            <span class="post-author"> / Argonomis</span>
+                            <span class="post-author"> / Argonomis S.P., S.Hut.</span>
                         </div>
-                        <h3 class="post-title">GHG Emissions</h3>
+                        <h3 class="post-title">Studi on GHG Emissions</h3>
                         <p>Illum voluptas ab enim placeat. Adipisci enim velit nulla. Vel omnis laudantium. Asperiores eum ipsa est officiis. Modi cupiditate exercitationem qui magni est...</p>
                         <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -411,7 +414,7 @@
                             <span class="post-date">Fri, Juni 28</span>
                             <span class="post-author"> / Almaida ayat 28</span>
                         </div>
-                        <h3 class="post-title">Study Pattern Monitoring 5th</h3>
+                        <h3 class="post-title">Study Pattern Monitoring 5 Years</h3>
                         <p>Voluptatem nesciunt omnis libero autem tempora enim ut ipsam id. Odit quia ab eum assumenda. Quisquam omnis aliquid necessitatibus tempora consectetur doloribus...</p>
                         <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -443,7 +446,7 @@
         <div class="container" data-aos="zoom-out">
 
             <div class="section-title">
-                <h2>Timeline</h2>
+                <h2>Short Course Time Line</h2>
             </div>
             <ul class="timeline">
                 <li>
@@ -461,7 +464,7 @@
                 <li>
                     <div>
                         <time>June</time>
-                        <p>Report & Presentation</p>
+                        <p>Final Product & Presentation</p>
                     </div>
                 </li>
             </ul>
