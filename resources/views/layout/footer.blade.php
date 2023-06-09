@@ -54,8 +54,11 @@
             </div>
 
             <div class="container footer-bottom clearfix">
-                <div class="copyright">
+                <!-- <div class="copyright">
                     &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+                </div> -->
+                <div class="copyright">
+                    &copy; Copyright <strong><span>PT. Inovasi Digital</span></strong>
                 </div>
                 <div class="credits">
                     <!-- All the links in the footer should remain intact. -->
