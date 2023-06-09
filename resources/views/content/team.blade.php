@@ -320,7 +320,7 @@
                             <img src="{{asset('Arsha/assets/img/team/aji2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Moh. Fazly Noor Islami H.</h4>
+                            <h4>M. Fazly Noor Islami H.</h4>
                             <span hidden>>Designer</span>
                         </div>
                     </div>
@@ -353,10 +353,10 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-beauty filter-us filter-pattern filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/hafis2.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/hafis.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>M. Haffizh</h4>
+                            <h4>M. Haffizh Fahlevi</h4>
                             <span hidden>>Tematik</span>
                         </div>
                     </div>
@@ -389,7 +389,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-pattern filter-beauty">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/jihad3.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/jihad2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Jihad</h4>
@@ -416,7 +416,7 @@
                             <img src="{{asset('Arsha/assets/img/team/fitri2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Fitri</h4>
+                            <h4>Fitriana</h4>
                             <span hidden>>Tematik</span>
                         </div>
                     </div>
@@ -425,10 +425,10 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-eudr filter-next">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/cesar3.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/cesar5.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Ceasar Argo S.P. S.Hut.</h4>
+                            <h4>Caesar Argo S.P. S.Hut.</h4>
                             <span hidden>>Data Miner</span>
                         </div>
                     </div>

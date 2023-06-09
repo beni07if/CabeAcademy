@@ -380,7 +380,7 @@
                             <img src="{{asset('Arsha/assets/img/team/dafa.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Al maida ayat 2</h4>
+                            <h4>Dafa Almaida</h4>
                             <span hidden>>Monitoring</span>
                         </div>
                     </div>
@@ -392,7 +392,7 @@
                             <img src="{{asset('Arsha/assets/img/team/fitri2.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Fitri</h4>
+                            <h4>Fitriana</h4>
                             <span hidden>>Tematik</span>
                         </div>
                     </div>
@@ -401,10 +401,10 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-eudr filter-next">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/cesar3.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/cesar5.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Argonomis S.P. S.Hut.</h4>
+                            <h4>Caesar Argo S.P. S.Hut.</h4>
                             <span hidden>>Data Miner</span>
                         </div>
                     </div>
