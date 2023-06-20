@@ -20,6 +20,10 @@ return new class extends Migration
             $table->rememberToken();
             $table->timestamps();
         });
+
+        Schema::table('users', function (Blueprint $table) {
+            $table->foreignId('unit_id')->constrained()->onDelete('cascade')->onUpdate('cascade');
+        });
     }
 
     /**

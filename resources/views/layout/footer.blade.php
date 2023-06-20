@@ -30,11 +30,11 @@
                         </div>
 
                         <div class="col-lg-4 col-md-6 footer-links">
-                            <h4>Tema Short Course</h4>
+                            <h4>Short Course Theme</h4>
                             <ul>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Regulasi dan Kebijakan</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Inovasi dan Ide Baru</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Inovasi pada Program Berjalan</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="#">Regulation and Policy</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="#">Innovation and New Ideas</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="#">Innovation and Existing Products</a></li>
                             </ul>
                         </div>
 
@@ -58,7 +58,7 @@
                     &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
                 </div> -->
                 <div class="copyright">
-                    &copy; Copyright <strong><span>PT. Inovasi Digital</span></strong>
+                    <strong><span>PT. Inovasi Digital</span></strong>
                 </div>
                 <div class="credits">
                     <!-- All the links in the footer should remain intact. -->

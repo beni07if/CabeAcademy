@@ -7,7 +7,7 @@
 </head>
 
 <body>
-
+    @yield('bodyStart')
     @yield('header')
     @yield('headerTeam')
 
@@ -21,6 +21,7 @@
     @include('layout.footScript')
 
     @yield('scriptIndex')
+    @yield('bodyEnd')
 </body>
 
 </html>

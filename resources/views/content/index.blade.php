@@ -169,7 +169,7 @@
                     </ul>
                 </li> -->
                 <!-- <li><a class="nav-link scrollto" href="#contact">Contact</a></li> -->
-                <li><a class="getstarted scrollto" href="#about">Login</a></li>
+                <li><a class="getstarted scrollto" href="{{route('dashboard')}}">Login</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -298,7 +298,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
-                                        <h4><a href="{{route('topic')}}">EUDR & UU Cipta Kerja</a></h4>
+                                        <h4><a href="{{route('topics')}}">EUDR & UU Cipta Kerja</a></h4>
                                         <p>EUDR & Omnibus Law on Job Creation Article 110A/110B (short course)</p>
                                     </div>
                                 </div>
@@ -306,7 +306,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-world"></i></div>
-                                        <h4><a href="{{route('topic')}}">US Forest Act 2021</a></h4>
+                                        <h4><a href="{{route('topics')}}">US Forest Act 2021</a></h4>
                                         <p>US Forest Act 2021 Draft Bill (short course)</p>
                                     </div>
                                 </div>
@@ -314,7 +314,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
-                                        <h4><a href="{{route('topic')}}">Beauty Contest</a></h4>
+                                        <h4><a href="{{route('topics')}}">Beauty Contest</a></h4>
                                         <p>Beauty Contest (ISCC, RSPO, MSPO dan ISPO) short course</p>
                                     </div>
                                 </div>
@@ -328,7 +328,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
-                                        <h4><a href="{{route('topic')}}">Study on GHG Emissions</a></h4>
+                                        <h4><a href="{{route('topics')}}">Study on GHG Emissions</a></h4>
                                         <p>Study on GHG Emissions (mid course)</p>
                                     </div>
                                 </div>
@@ -341,7 +341,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-arch"></i></div>
-                                        <h4><a href="{{route('topic')}}">The Next-Generation of Monitoring</a></h4>
+                                        <h4><a href="{{route('topics')}}">The Next-Generation of Monitoring</a></h4>
                                         <p>The Next-Generation of monitoring, liability and recovery (short course)</p>
                                     </div>
                                 </div>
@@ -349,7 +349,7 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-world"></i></div>
-                                        <h4><a href="{{route('topic')}}">Study Pattern Monitoring 5 Years</a></h4>
+                                        <h4><a href="{{route('topics')}}">Study Pattern Monitoring 5 Years</a></h4>
                                         <p>Study Pattern Monitoring 5 Years (short course)</p>
                                     </div>
                                 </div>
@@ -357,14 +357,14 @@
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
-                                        <h4><a href="{{route('topic')}}">100 Landscape Ideas</a></h4>
+                                        <h4><a href="{{route('topics')}}">100 Landscape Ideas</a></h4>
                                         <p>100 Landscape Ideas (short course)</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 portfolio-item filter-inovation">
                                     <div class="icon-box">
                                         <div class="icon"><i class="bx bx-slideshow"></i></div>
-                                        <h4><a href="{{route('topic')}}">Expedition of a thousand storms</a></h4>
+                                        <h4><a href="{{route('topics')}}">Expedition of a thousand storms</a></h4>
                                         <p>Expedition of a thousand storms (mid course)</p>
                                     </div>
                                 </div>
@@ -388,8 +388,8 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Short Course Outcomes</h2>
-                <p>Recent posts form our short course</p>
+                <h2>Short Course Output</h2>
+                <p>Dummy Output</p>
             </div>
 
             <div class="row">
@@ -403,7 +403,7 @@
                         </div>
                         <h3 class="post-title">Studi on GHG Emissions</h3>
                         <p>Illum voluptas ab enim placeat. Adipisci enim velit nulla. Vel omnis laudantium. Asperiores eum ipsa est officiis. Modi cupiditate exercitationem qui magni est...</p>
-                        <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                        <a href="{{route('posts')}}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -416,7 +416,7 @@
                         </div>
                         <h3 class="post-title">Study Pattern Monitoring 5 Years</h3>
                         <p>Voluptatem nesciunt omnis libero autem tempora enim ut ipsam id. Odit quia ab eum assumenda. Quisquam omnis aliquid necessitatibus tempora consectetur doloribus...</p>
-                        <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                        <a href="{{route('posts')}}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -429,7 +429,7 @@
                         </div>
                         <h3 class="post-title">Beauty Contest</h3>
                         <p>Quia nam eaque omnis explicabo similique eum quaerat similique laboriosam. Quis omnis repellat sed quae consectetur magnam veritatis dicta nihil...</p>
-                        <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                        <a href="{{route('posts')}}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 

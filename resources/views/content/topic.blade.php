@@ -319,6 +319,7 @@
                         <p>
                         <ul>
                             <li>Report discussion with internal team</li>
+                            <li>Data collection</li>
                             <li>Draf report</li>
                         </ul>
                         </p>
@@ -329,7 +330,7 @@
                         <!-- <p><em>Stepping Stone dfsadfAdvertising, New York, NY</em></p> -->
                         <p>
                         <ul>
-                            <li>Report</li>
+                            <li>Report / Ideas</li>
                             <li>Slide presentation</li>
                         </ul>
                         </p>
