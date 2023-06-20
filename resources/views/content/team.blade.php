@@ -249,7 +249,7 @@
                     <li data-filter="*" class="filter-active">All Team (13)</li>
                     <li data-filter=".filter-ghg">Studies on GHG Emissions (5)</li>
                     <li data-filter=".filter-eudr">EUDR & UU Ciptaker(4)</li>
-                    <li data-filter=".filter-us">US Forest Act 2021 (3)</li>
+                    <li data-filter=".filter-us">US Forest Act 2021 (2)</li>
                     <li data-filter=".filter-beauty">Beauty Contest (6)</li>
                     <li data-filter=".filter-pattern">Study Pattern Monitoring (6)</li>
                     <li data-filter=".filter-next">Next Gen Monev (4)</li>
