@@ -327,18 +327,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi filter-beauty">
-                    <div class="team-member">
-                        <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_fatra.jpeg')}}" class="img-fluid" alt="">
-                        </div>
-                        <div class="member-info">
-                            <h4>Fatra Handalucy</h4>
-                            <span hidden>>FVP Tim</span>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
@@ -359,6 +347,18 @@
                         <div class="member-info">
                             <h4>M. Haffizh Fahlevi</h4>
                             <span hidden>>Tematik</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi filter-beauty">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="{{asset('Arsha/assets/img/team/f_fatra.jpeg')}}" class="img-fluid" alt="">
+                        </div>
+                        <div class="member-info">
+                            <h4>Fatra Handalucy</h4>
+                            <span hidden>>FVP Tim</span>
                         </div>
                     </div>
                 </div>
