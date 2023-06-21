@@ -14,37 +14,47 @@
                 </div>
             </div> -->
 
-            <div class="footer-top">
+            <div class="footer-top about cta">
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-4 col-md-6 footer-contact">
-                            <h3>ID Academy</h3>
-                            <p>
-                                Jalan Tangkuban Perahu <br>
-                                Bogor, 79121<br>
-                                Bogor <br><br>
-                                <strong>Phone:</strong> +62 898 2959 531<br>
-                                <strong>Email:</strong> beni@inovasidigital.asia<br>
-                            </p>
+                        <div class="col-lg-5 col-md-6 footer-links">
+                            <h4>Address</h4>
+                            <ul>
+                                <li><i class="bi bi-geo-alt-fill"></i> Tempo Scan Tower 32F, Jl. HR. Rasuna Said Kav 3-4 12950<br>
+                                    Jakarta Selatan,<br>
+                                    Indonesia<br></li>
+                                <li><i class="bi bi-geo-alt-fill"></i> Jln. Anggrek No.6 Pontianak City<br>
+                                    West Kalimantan,<br>
+                                    Indonesia<br></li>
+                            </ul>
                         </div>
 
                         <div class="col-lg-4 col-md-6 footer-links">
+                            <h4>Contact Us</h4>
+                            <ul>
+                                <li><i class="bx bx-phone"></i> <strong>Phone:</strong> +62 251 837 1219</li>
+                                <li><i class="bi bi-whatsapp"></i> <strong>Phone:</strong> +62 811 114 1219 (whatsapp only)</li>
+                                <li><i class="bi bi-phone"></i> <strong>Email:</strong> info@inovasidigital.asia</li>
+                            </ul>
+                        </div>
+
+                        <!-- <div class="col-lg-3 col-md-6 footer-links">
                             <h4>Short Course Theme</h4>
                             <ul>
                                 <li><i class="bx bx-chevron-right"></i> <a href="#">Regulation and Policy</a></li>
                                 <li><i class="bx bx-chevron-right"></i> <a href="#">Innovation and New Ideas</a></li>
                                 <li><i class="bx bx-chevron-right"></i> <a href="#">Innovation and Existing Products</a></li>
                             </ul>
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-4 col-md-6 footer-links">
-                            <h4>Our Social Networks</h4>
+                        <div class="col-lg-3 col-md-6 footer-links">
+                            <h4>Our Social Media</h4>
                             <!-- <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p> -->
                             <div class="social-links mt-3">
                                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                                <!-- <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
                                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                             </div>
                         </div>

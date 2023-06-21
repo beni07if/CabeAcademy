@@ -242,11 +242,11 @@
         <div class="container" data-aos="fade-up">
             <div class="section-title">
                 <h2>Team</h2>
-                <p>Anggota masing-masing topik short/mid course</p>
+                <p>Short & Mid Course Team</p>
             </div>
             <div class="desktop">
                 <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
-                    <li data-filter="*" class="filter-active">All Team (13)</li>
+                    <li data-filter="*" class="filter-active">All Team (12)</li>
                     <li data-filter=".filter-ghg">Studies on GHG Emissions (5)</li>
                     <li data-filter=".filter-eudr">EUDR & UU Ciptaker(4)</li>
                     <li data-filter=".filter-us">US Forest Act 2021 (2)</li>
@@ -265,8 +265,8 @@
                         <li data-filter=".filter-ghg" class="swiper-slide">Studies on GHG Emissions (5)</li>
                         <li data-filter=".filter-eudr" class="swiper-slide">EUDR &amp; UU Ciptaker(4)</li>
                         <li data-filter=".filter-us" class="swiper-slide">US Forest Act 2021 (2)</li>
-                        <li data-filter=".filter-beauty" class="swiper-slide">Beauty Contest (6)</li>
-                        <li data-filter=".filter-pattern" class="swiper-slide">Pattern Monitoring (6)</li>
+                        <li data-filter=".filter-beauty" class="swiper-slide">Beauty Contest (5)</li>
+                        <li data-filter=".filter-pattern" class="swiper-slide">Pattern Monitoring (5)</li>
                         <li data-filter=".filter-next" class="swiper-slide">Next Gen Monev (4)</li>
                         <li data-filter=".filter-lanskap" class="swiper-slide">100 Landscape Ideas (3)</li>
                         <li data-filter=".filter-ekspedisi" class="swiper-slide">Expedition of a thousand storms (3)</li>
@@ -368,7 +368,7 @@
                             <img src="{{asset('Arsha/assets/img/team/ridha.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Rhida Riskia</h4>
+                            <h4>Ridha Rizkiana</h4>
                             <span hidden>>Traceability</span>
                         </div>
                     </div>
@@ -394,18 +394,6 @@
                         <div class="member-info">
                             <h4>Jihad</h4>
                             <span hidden>>Corporate</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 portfolio-item filter-pattern filter-beauty">
-                    <div class="team-member">
-                        <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/bowo.jpeg')}}" class="img-fluid" alt="">
-                        </div>
-                        <div class="member-info">
-                            <h4>Bowo</h4>
-                            <span hidden>>Monitoring</span>
                         </div>
                     </div>
                 </div>

@@ -186,8 +186,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-                <h1>ID Academy by PT Inovasi Digital</h1>
-                <h2>Internship's Short Course Program at PT Inovasi Digital</h2>
+                <h1>ID Academy by InovasiDigital</h1>
+                <h2>Internship's Short Course Program at InovasiDigital</h2>
                 <div class="d-flex justify-content-center justify-content-lg-start">
                     <!-- <a href="#about" class="btn-get-started scrollto">Get Started</a>
                         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -217,7 +217,7 @@
             <div class="row content">
                 <div class="col-lg-6">
                     <p>
-                        ID Academy is a short/mid course of the internship program at PT Inovasi Digital. The short course theme consists of:
+                        ID Academy is a short/mid course of the internship program at InovasiDigital. The short course theme consists of:
                     </p>
                     <ul>
                         <li><i class="ri-check-double-line"></i> Regulation and policy</li>
@@ -227,10 +227,10 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0" style="text-align: justify;">
                     <!-- <p>
-                        ID Academy is a short/mid course held by PT Inovasi Digital for apprentice/pkwt staff. This program raises several topics such as Studies on GHG Emissions, Pattern monitoring, and so on. The output of this program is a report from each team regarding the existing topics.
+                        ID Academy is a short/mid course held by InovasiDigital for apprentice/pkwt staff. This program raises several topics such as Studies on GHG Emissions, Pattern monitoring, and so on. The output of this program is a report from each team regarding the existing topics.
                     </p> -->
                     <p>
-                        This short course aimed to develop PT Inovasi Digital trainees and new staffs to have a better understanding and knowledge about the development and condition of palm oil global industry, the relation to the international law and the sustainability of the nature.
+                        This short course aimed to develop InovasiDigital trainees and new staffs to have a better understanding and knowledge about the development and condition of palm oil global industry, the relation to the international law and the sustainability of the nature.
                     </p>
                     <p>
                         The topic of this short course consist of studies on GHG Emissions, the pattern of these 5 years monitoring, the new generation of monitoring evaluation/liability/recovery, the battle of palm oil certifications, the connection between the EUDR & Omnibus Law on Job Creation, Examining the US Forest Act Draft Bill 2021, and the exploration of Indonesia's beautiful landscape which are the expedition of a thousand storms and developing 100 landscape ideas. The output of this program vary starting from reports and video documentation.
@@ -672,7 +672,7 @@
 
                 <div class="col-lg-5 d-flex align-items-stretch">
                     <div class="info">
-                        <div class="address">
+                        <!-- <div class="address">
                             <i class="bi bi-geo-alt"></i>
                             <h4>Location:</h4>
                             <p>Jalan Tangkuban Perahu no.8</p>
@@ -688,7 +688,7 @@
                             <i class="bi bi-phone"></i>
                             <h4>Call:</h4>
                             <p>+82 898 2950 531</p>
-                        </div>
+                        </div> -->
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15853.930342908214!2d106.8026462!3d-6.586777099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c5900337fbe1%3A0x41efae520676fac5!2sEarthqualizer%20Foundation!5e0!3m2!1sid!2sid!4v1686042091940!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
                     </div>
 
