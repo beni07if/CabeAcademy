@@ -12,6 +12,7 @@
     .member-img {
         width: 100%;
         /* Dimensi kotak crop */
+        /* width: 305px; */
         height: 300px;
         overflow: hidden;
         position: relative;
@@ -281,7 +282,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-next">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/beni.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_beni.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Beni</h4>
@@ -293,7 +294,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-beauty filter-next filter-pattern">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/dafa.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_dafa.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Dafa Almaida</h4>
@@ -305,7 +306,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-beauty filter-us filter-eudr filter-next filter-pattern filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/brandy2.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_brandy.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Brandy Befani</h4>
@@ -317,7 +318,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-eudr filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/aji2.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_aji.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>M. Fazly Noor Islami H.</h4>
@@ -329,7 +330,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi filter-beauty">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/fatra.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_fatra.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Fatra Handalucy</h4>
@@ -341,7 +342,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/usup.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_usup.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Usup Ida</h4>
@@ -353,7 +354,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-beauty filter-us filter-pattern filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/hafis.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_hafis.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>M. Haffizh Fahlevi</h4>
@@ -365,7 +366,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-eudr">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/ridha.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_ridha.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Ridha Rizkiana</h4>
@@ -377,7 +378,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-pattern">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/iqbal.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_iqbal.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>M. Iqbal</h4>
@@ -389,7 +390,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-pattern filter-beauty">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/jihad2.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_jihad.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Jihad</h4>
@@ -401,7 +402,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/fitri2.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_fitri.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Fitriana</h4>
@@ -413,7 +414,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-eudr filter-next">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/cesar5.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_cesar.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Caesar Argo S.P. S.Hut.</h4>
