@@ -282,7 +282,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-next">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_beni.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_beni.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Beni</h4>
@@ -306,7 +306,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-beauty filter-us filter-eudr filter-next filter-pattern filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_brandy.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_brandy.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Brandy Befani</h4>
@@ -318,7 +318,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-eudr filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_aji.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_aji.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>M. Fazly Noor Islami H.</h4>
@@ -330,7 +330,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi filter-beauty">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_fatra.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_fatra.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Fatra Handalucy</h4>
@@ -342,7 +342,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_usup.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_usup.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Usup Ida</h4>
@@ -354,7 +354,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-beauty filter-us filter-pattern filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_hafis.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_hafis.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>M. Haffizh Fahlevi</h4>
@@ -366,7 +366,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-eudr">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_ridha.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_ridha.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Ridha Rizkiana</h4>
@@ -390,7 +390,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-pattern filter-beauty">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_jihad.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_jihad.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Jihad</h4>
@@ -402,7 +402,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_fitri.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_fitri.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Fitriana</h4>
@@ -414,7 +414,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-eudr filter-next">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_cesar.JPEG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_cesar.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Caesar Argo S.P. S.Hut.</h4>
