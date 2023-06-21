@@ -318,7 +318,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-eudr filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_aji.JPG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_aji.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>M. Fazly Noor Islami H.</h4>
@@ -402,7 +402,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_fitri.JPG')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_fitri.jpg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Fitriana</h4>
@@ -435,7 +435,7 @@
 <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     $(document).ready(function() {
-        // Menambahkan <span hidden>> berdasarkan filter saat halaman dimuat
+        // Menambahkan <span hidden>> berdasarkan filter saat halaman sdimuat
         filterItems();
 
         // Memperbarui <span hidden>> ketika filter diubah
