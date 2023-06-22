@@ -279,26 +279,26 @@
 
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-next">
+                <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_beni.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_usup.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Beni</h4>
-                            <span hidden>>App Developer</span>
+                            <h4>Usup Ida</h4>
+                            <span hidden>>FVP Tim</span>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-beauty filter-next filter-pattern">
+                <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-eudr filter-next">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_dafa.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_cesar.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Almayda Dafa A.</h4>
-                            <span hidden>>Monitoring</span>
+                            <h4>Caesar Argo S.P. S.Hut.</h4>
+                            <span hidden>>Data Miner</span>
                         </div>
                     </div>
                 </div>
@@ -315,6 +315,18 @@
                     </div>
                 </div>
 
+                <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-next">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="{{asset('Arsha/assets/img/team/f_beni.jpeg')}}" class="img-fluid" alt="">
+                        </div>
+                        <div class="member-info">
+                            <h4>Beni</h4>
+                            <span hidden>>App Developer</span>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-lg-3 col-md-6 portfolio-item filter-eudr filter-ekspedisi">
                     <div class="team-member">
                         <div class="member-img">
@@ -327,17 +339,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi">
-                    <div class="team-member">
-                        <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_usup.jpeg')}}" class="img-fluid" alt="">
-                        </div>
-                        <div class="member-info">
-                            <h4>Usup Ida</h4>
-                            <span hidden>>FVP Tim</span>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ekspedisi filter-beauty">
                     <div class="team-member">
@@ -387,18 +388,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 portfolio-item filter-pattern filter-beauty">
-                    <div class="team-member">
-                        <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_jihad.jpeg')}}" class="img-fluid" alt="">
-                        </div>
-                        <div class="member-info">
-                            <h4>Jihad</h4>
-                            <span hidden>>Corporate</span>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-lanskap">
                     <div class="team-member">
                         <div class="member-img">
@@ -411,14 +400,26 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-eudr filter-next">
+                <div class="col-lg-3 col-md-6 portfolio-item filter-ghg filter-beauty filter-next filter-pattern">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_cesar.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_dafa.jpeg')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
-                            <h4>Caesar Argo S.P. S.Hut.</h4>
-                            <span hidden>>Data Miner</span>
+                            <h4>Almayda Dafa A.</h4>
+                            <span hidden>>Monitoring</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 portfolio-item filter-pattern filter-beauty">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="{{asset('Arsha/assets/img/team/f_jihad.jpeg')}}" class="img-fluid" alt="">
+                        </div>
+                        <div class="member-info">
+                            <h4>Jihad</h4>
+                            <span hidden>>Corporate</span>
                         </div>
                     </div>
                 </div>
