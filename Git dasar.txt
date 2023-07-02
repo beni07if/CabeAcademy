@@ -1,0 +1,132 @@
+
+Token Github YNKIRedesign4 (14/6/2022-2bulankedepan): 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
+
+Token GitHub PSKetapang (3/6/2022-1/9/2022): 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
+
+Token baru 20-6-2023 (3bulan dari tgl 20-9): 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 (existing)
+Token baru 14-3-2023 (3bulan dari tgl 14-3): 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
+Token baru 4-10-2022 (3bulan dari tgl 4-10): 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
+Token baru 11-12-2022 (3 bulan dari tgl 11-12) : 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
+
+<--token lama-->
+git remote set-url origin https://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@github.com/beni07if/YNKIRedesign.git
+Token GitHub 15-3-2022 : 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
+Token GitHub : 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
+<-- end token lama, jangan dipakai -->
+
+tutorial menggunakan git dan github
+cara membuat repository baru dan push project laravel dari terminal ke github
+1 buat repository di github
+2 open folder project laravel dengan klik kanan pilih git bash here
+3 git init (Hal ini digunakan untuk membuat repository atau "tempat kerja" di git)
+4 git remote add origin https://github.com/beni07if/namarepositoriyangtelahdibuatdigithub.git (menghubungkan git dengan github) ini utk menambahkan remote baru
+5 git add . (menambahkan file ke repository di git)
+6 git commit -m "masukan komentar" (membuat commit/komentar)
+7 git push origin master (push project git ke github)
+
+tinggal cek di github
+
+untuk mengkoneksikan ulang project laravel kita dengan github
+1. open project laravel dengan klik kanan folder pilih git bash here
+2. git remote set-url github https://github.com/beni07if/namarepo.git   
+atau git remote set-url origin https://github.com/beni07if/namarepo.git   
+atau $ git remote set-url origin git@github.com:beni07if/namarepo.git 
+atau jika konek pertama kali pakai ini : git remote add origin https://github.com/beni07if/namarepo.git
+atau clone : git clone masukanUrlNye
+3. ketika sudah ada perubahan yang ingin di push lakukan langkah 4
+4. git add .
+5. git commit -m "komentar"
+6. git push origin master
+
+
+jika sering gagal git push origin master silakan remove origin dengan "gbit remote rm origin" kemudian "git remote add origin https://github.com/beni07if/namarepo.git"
+ingat pushnye di git bash jangan di terminal vscode
+mantap
+
+
+konfigurasi .htaccess di laravel project cpanel
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+
+Perintah pertama di terminal Saat configurasi laravel pertama kali di cpanel (***)
+1. composer install --optimize-autoloader --no-dev
+//---jika proses instal composer berhasil maka lanjut tahap 2 yaitu "composer update" tapi jika gagal instal composer maka lalukan hal dibawah---//
+composer install --ignore-platform-reqs
+//--- end---//
+2. composer update
+3. php artisan key:generate  (sebelumnya setting .env)
+4. php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\JWTAuthServiceProvider"
+
+untuk jwt:secret pada terminal setelah php artisan migrate pakai script dibawah
+php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\JWTAuthServiceProvider"
+
+DB_CONNECTION=mysql
+
+DB_HOST=127.0.0.1
+
+DB_PORT=3306
+
+DB_DATABASE=u8426292_db_projectpendikarv1
+
+DB_USERNAME=u8426292_beni07if
+
+DB_PASSWORD=Adgjmptwajt07
+
+catatan
+jika ingin remote dari pc lain menggunakan akun yang sama
+ 
+1. clone terlebih dahulu project di github ke lokal
+2. git config --global user.name dan user.email
+3. git init
+4. git remote set-url origin https://github.com/beni07if/namarepo.git 
+5. dst..
+
+
+cara konfigurasi sub domain
+1. buat/tarik repositori project yg diinginkan di github dengan perintah git-version di cpanel, dan simpan project tsb di folder misal repositories
+2. buat sub domain dan arahkan ke project yg dah dibuat barusan
+2. buat file .env 
+4. buka terminal, lakukan konfigurasi seperti bintang (***)
+5. kalo ade yg gagal, copas jak errornye di stackoverflow
+//
+
+jika di main domain / project utama pada public_html dijadikan file publicnya project laravel maka ketika pul semua asset di public di dalam project laravel harus di copy ke folder aset yg ada di deretan public_html. Tapi jika pakai sub domain ini tidak perlu.
+
+
+pass baru webgis jalan: Webgisjalanptk123#
+
+akun ps ketapang terbaru (username: psktp2022, pass: psketapang1234)
+
+Make auth laravel, jalankan perintah dibawah di terminal dalam folder project laravel, boleh di terminal vscode:
+composer require laravel/ui --dev
+npm install
+npm run dev
+php artisan ui vue
+php artisan ui vue --auth
+
+Chatgpt extention vscode
+api ke 4: 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
+
+GPT4 in vscode: beni07if@gmail.com, beni07212
+
+cpanel chatbot: 
+username: wwwinova_beni
+pass: beni07212#
