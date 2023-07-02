@@ -19,6 +19,7 @@
         "vite": "^4.3.9"
     },
     "dependencies": {
+        "laravel-mix": "^6.0.49",
         "puppeteer": "^20.7.1"
     }
 }
