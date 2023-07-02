@@ -13,11 +13,11 @@ return new class extends Migration
     {
         Schema::create('progress', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('outline')->nullable();
-            $table->string('draft_report')->nullable();
-            $table->string('report')->nullable();
-            $table->string('slide_p')->nullable();
-            $table->string('comment')->nullable();
+            $table->text('outline')->nullable();
+            $table->text('draft_report')->nullable();
+            $table->text('report')->nullable();
+            $table->text('slide_p')->nullable();
+            $table->text('comment')->nullable();
             $table->timestamps();
         });
 
