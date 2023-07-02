@@ -61,18 +61,16 @@
 
                   <div class="pt-4 pb-2">
                     <h5 class="card-title text-center pb-0 fs-4">Login to Dashboard ID Academy</h5>
-                    <p class="text-center small">Enter your unit/topic & password to login</p>
+                    <p class="text-center small">Enter your password to login</p>
                   </div>
 
                   <form class="row g-3 needs-validation" novalidate method="POST" action="{{ route('login') }}">
         @csrf
         
-                    <label for="email" class="form-label">Email</label>
+                    <label for="email" class="form-label">Username</label>
                     <div class="input-group has-validation">
                         <select name="email" class="form-select" id="email" required>
-                            <option value="beni07if@gmail.com">beni07if@gmail.com</option>
-                            <option value="Option 2">Option 2</option>
-                            <option value="Option 3">Option 3</option>
+                            <option value="id-academy@gmail.com">ID Acadmy</option>
                         </select>
                         <div class="invalid-feedback">Please select an option or enter your username.</div>
                     </div>
