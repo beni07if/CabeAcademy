@@ -11,6 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
+        Schema::dropIfExists('progress');
         Schema::create('progress', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->text('outline')->nullable();

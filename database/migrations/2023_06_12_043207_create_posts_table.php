@@ -11,12 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
+        Schema::dropIfExists('posts');
         Schema::create('posts', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('title');
-            $table->string('description');
-            $table->string('comment');
-            $table->string('photo');
+            $table->text('description')->nullable();
+            $table->text('comment')->nullable();
+            $table->string('photo')->nullable();
             $table->timestamps();
         });
 
