@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('taglines', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('title')->nullable();
-            $table->string('description')->nullable();
+            $table->text('description')->nullable();
             $table->string('photo')->nullable();
             $table->timestamps();
         });
