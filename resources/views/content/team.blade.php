@@ -379,7 +379,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-pattern">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/f_iqbal.png')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/f_iqbal.PNG')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>M. Iqbal</h4>
@@ -419,7 +419,7 @@
                         </div>
                         <div class="member-info">
                             <h4>Jihad</h4>
-                            <span hidden>>Corporate</span>
+                            <span hidden>>Corporatee</span>
                         </div>
                     </div>
                 </div>

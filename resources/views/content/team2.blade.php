@@ -168,7 +168,7 @@
     <div class="container d-flex align-items-center">
 
         <h1 class="logo me-auto"><a href="{{route('index')}}#home">ID Academy</a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- Uncomment below if you prefer to use an image logoss -->
         <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
         <nav id="navbar" class="navbar">
@@ -377,7 +377,7 @@
                 <div class="col-lg-3 col-md-6 portfolio-item filter-pattern">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('Arsha/assets/img/team/iqbal.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('Arsha/assets/img/team/iqbal.PNG')}}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Iqbal M.I</h4>
